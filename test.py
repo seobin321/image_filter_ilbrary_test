@@ -1,5 +1,5 @@
 import os
-from image_filter_library.filters import ImageFilterLibrary  # 클래스 import
+from image_filter_library.filters import ImageFilterLibrary  # 클래스 import / .filters는 쓰지 않아도 됨
 
 # 이미지 경로 입력 루프
 while True:
